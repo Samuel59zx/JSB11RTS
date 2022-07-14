@@ -1,0 +1,36 @@
+body{
+  background: rgb(245, 250, 247);
+}
+header{
+    background: rgb(66, 154, 237);
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+  }
+.importante{
+    font-weight: bold;
+    text-decoration: underline;
+  }
+    h2{
+        color: rgb(5, 175, 205);
+        position: relative;
+        left: 2rem;
+      }
+      ul{
+        position: relative;
+        line-height: 20pt;
+        left: 2rem;
+      }
+      tr{
+        position: relative;
+        left: 2rem;
+      }
+        thead{
+        color: white;
+        background-color: rgb(72, 146, 224);
+        }
+        #descanso{
+            font-weight: bold;
+            text-align: center;
+            text-transform: uppercase;
+          }
