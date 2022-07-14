@@ -7,6 +7,10 @@ header{
     padding: 0.5rem;
     text-align: center;
   }
+  thead{
+    color: white;
+    background-color: rgb(72, 146, 224);
+    }
 .importante{
     font-weight: bold;
     text-decoration: underline;
@@ -25,12 +29,10 @@ header{
         position: relative;
         left: 2rem;
       }
-        thead{
-        color: white;
-        background-color: rgb(72, 146, 224);
-        }
-        #descanso{
-            font-weight: bold;
-            text-align: center;
-            text-transform: uppercase;
-          }
+    
+      #descanso{
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+      }
+        
